@@ -7,15 +7,15 @@ Additionally, the streaming team wanted an automated pipeline that would take in
 
 
 ### Resources
-Python
-Jupyter Notebooks
-PostgreSQL
-pgAdmin 4
+ * Python
+ * Jupyter Notebooks
+ * PostgreSQL
+ * pgAdmin 4
 
 Data:
-Wikipedia data scrape JSON file
-Kaggle movies metadata 
-MovieLens Ratings .csv data file with over 26 million data rows
+ * Wikipedia data scrape JSON file
+ * Kaggle movies metadata 
+ * MovieLens Ratings .csv data file with over 26 million data rows
 
 
 ## Overview of the ETL Process
